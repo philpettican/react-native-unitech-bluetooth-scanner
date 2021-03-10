@@ -1,4 +1,4 @@
-package com.reactnativeunitechbluetoothscanner
+package com.unitech.bluetooth.scanner
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule

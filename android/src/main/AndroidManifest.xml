@@ -1,4 +1,3 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.reactnativeunitechbluetoothscanner">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.unitech.bluetooth.scanner">
 
 </manifest>
