@@ -1,14 +1,12 @@
 import * as React from 'react';
-
 import { StyleSheet, View, Text } from 'react-native';
 import UnitechBluetoothScanner from 'react-native-unitech-bluetooth-scanner';
-
 
 export default function App() {
   const [result, setResult] = React.useState<number | undefined>();
 
   React.useEffect(() => {
-    UnitechBluetoothScanner.multiply(3, 7).then(setResult);
+    UnitechBluetoothScanner.multiply(2, 5).then(setResult);
   }, []);
 
   return (
